@@ -1,4 +1,4 @@
-let oxigenio = (prompt("Insira a quantidade de oxigenio restante(em livros):"));
+alert("ola eu mesmo");
 let pessoas = Number(prompt("Insira a quatidade de pessoas em marte:"));
 const consumoDiario = 15; // litros por pessoa.
 // consumo total é baseada na quantidade de pessoas multiplicado pelo consumo diario por pessoa.
